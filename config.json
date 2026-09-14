@@ -9,7 +9,7 @@
       "siteNo": "0013",
       "siteNm": "CGV 용산아이파크몰",
       "screen_match": "IMAX",
-      "days_ahead": 30,
+      "days_ahead": 15,
       "lookahead_pad": 3,
       "filter": {
         "_note": "rules 는 OR 조건. 하나라도 맞으면 알림 대상.",
