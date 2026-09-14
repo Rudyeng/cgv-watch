@@ -845,7 +845,7 @@
     "30001517|0013": {}
   },
   "runs": 40,
-  "consecutive_failures": 7,
+  "consecutive_failures": 8,
   "last_ok": "2026-09-15T01:54:29+09:00",
   "last_error": "RuntimeError: 전 날짜 조회 실패 - 20260915:SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
 }
