@@ -3,7 +3,7 @@
   "ntfy_server": "https://ntfy.sh",
   "targets": [
     {
-      "label": "오디세이 · 용산 IMAX",
+      "label": "어벤져스 · 용산 IMAX",
       "movNo": "30001517",
       "movNm": "어벤져스",
       "siteNo": "0013",
