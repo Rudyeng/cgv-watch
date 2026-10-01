@@ -2,7 +2,7 @@
   "targets": {
     "30001323|0013": {
       "20261001_018_1800": {
-        "free": 51,
+        "free": 66,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -12,7 +12,7 @@
         "last_notified": 1790840533
       },
       "20261001_018_2130": {
-        "free": 55,
+        "free": 52,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -22,7 +22,7 @@
         "last_notified": 1790840533
       },
       "20261002_018_1800": {
-        "free": 27,
+        "free": 29,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -32,7 +32,7 @@
         "last_notified": 1790840533
       },
       "20261002_018_2130": {
-        "free": 16,
+        "free": 12,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -42,7 +42,7 @@
         "last_notified": 1790843444
       },
       "20261003_018_1100": {
-        "free": 6,
+        "free": 5,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -52,7 +52,7 @@
         "last_notified": 1790843444
       },
       "20261003_018_1430": {
-        "free": 7,
+        "free": 5,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -62,17 +62,17 @@
         "last_notified": 1790843444
       },
       "20261003_018_1800": {
-        "free": 3,
+        "free": 6,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
         "start": "1800",
         "movNm": "오디세이",
         "siteNm": "CGV 용산아이파크몰",
-        "last_notified": 1790840533
+        "last_notified": 1790844888
       },
       "20261003_018_2130": {
-        "free": 8,
+        "free": 6,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -82,24 +82,24 @@
         "last_notified": 1790842161
       },
       "20261004_018_1100": {
-        "free": 6,
+        "free": 11,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
         "start": "1100",
         "movNm": "오디세이",
         "siteNm": "CGV 용산아이파크몰",
-        "last_notified": 1790842161
+        "last_notified": 1790844888
       },
       "20261004_018_1430": {
-        "free": 6,
+        "free": 7,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
         "start": "1430",
         "movNm": "오디세이",
         "siteNm": "CGV 용산아이파크몰",
-        "last_notified": 1790840533
+        "last_notified": 1790844888
       },
       "20261004_018_1800": {
         "free": 7,
@@ -112,17 +112,17 @@
         "last_notified": 1790843444
       },
       "20261004_018_2130": {
-        "free": 8,
+        "free": 10,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
         "start": "2130",
         "movNm": "오디세이",
         "siteNm": "CGV 용산아이파크몰",
-        "last_notified": 1790843444
+        "last_notified": 1790844888
       },
       "20261005_018_1800": {
-        "free": 11,
+        "free": 9,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -132,7 +132,7 @@
         "last_notified": 1790843444
       },
       "20261005_018_2130": {
-        "free": 49,
+        "free": 52,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -142,7 +142,7 @@
         "last_notified": 1790840533
       },
       "20261006_018_1800": {
-        "free": 51,
+        "free": 58,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -152,7 +152,7 @@
         "last_notified": 1790840533
       },
       "20261006_018_2130": {
-        "free": 74,
+        "free": 79,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -162,7 +162,7 @@
         "last_notified": 1790840533
       },
       "20261007_018_1800": {
-        "free": 339,
+        "free": 321,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -172,7 +172,7 @@
         "last_notified": 1790842161
       },
       "20261007_018_2130": {
-        "free": 387,
+        "free": 366,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -182,7 +182,7 @@
         "last_notified": 1790842161
       },
       "20261008_018_1800": {
-        "free": 317,
+        "free": 302,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -192,7 +192,7 @@
         "last_notified": 1790842161
       },
       "20261008_018_2130": {
-        "free": 327,
+        "free": 307,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -202,7 +202,7 @@
         "last_notified": 1790842161
       },
       "20261009_018_1800": {
-        "free": 203,
+        "free": 192,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -212,7 +212,7 @@
         "last_notified": 1790842161
       },
       "20261009_018_2130": {
-        "free": 277,
+        "free": 243,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -222,7 +222,7 @@
         "last_notified": 1790842161
       },
       "20261010_018_1100": {
-        "free": 228,
+        "free": 199,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -232,7 +232,7 @@
         "last_notified": 1790843444
       },
       "20261010_018_1430": {
-        "free": 193,
+        "free": 175,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -242,7 +242,7 @@
         "last_notified": 1790843444
       },
       "20261010_018_1800": {
-        "free": 201,
+        "free": 185,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -252,7 +252,7 @@
         "last_notified": 1790843444
       },
       "20261010_018_2130": {
-        "free": 265,
+        "free": 240,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -262,7 +262,7 @@
         "last_notified": 1790843444
       },
       "20261011_018_1100": {
-        "free": 249,
+        "free": 225,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -272,7 +272,7 @@
         "last_notified": 1790843444
       },
       "20261011_018_1430": {
-        "free": 207,
+        "free": 182,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -282,7 +282,7 @@
         "last_notified": 1790843444
       },
       "20261011_018_1800": {
-        "free": 228,
+        "free": 211,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -292,7 +292,7 @@
         "last_notified": 1790843444
       },
       "20261011_018_2130": {
-        "free": 343,
+        "free": 322,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -302,7 +302,7 @@
         "last_notified": 1790843444
       },
       "20261012_018_1800": {
-        "free": 347,
+        "free": 328,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -312,7 +312,7 @@
         "last_notified": 1790843444
       },
       "20261012_018_2130": {
-        "free": 383,
+        "free": 371,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -320,11 +320,31 @@
         "movNm": "오디세이",
         "siteNm": "CGV 용산아이파크몰",
         "last_notified": 1790843444
+      },
+      "20261013_018_1800": {
+        "free": 328,
+        "total": 624,
+        "screen": "IMAX관",
+        "fmt": "IMAX LASER 2D",
+        "start": "1800",
+        "movNm": "오디세이",
+        "siteNm": "CGV 용산아이파크몰",
+        "last_notified": 1790844888
+      },
+      "20261013_018_2130": {
+        "free": 352,
+        "total": 624,
+        "screen": "IMAX관",
+        "fmt": "IMAX LASER 2D",
+        "start": "2130",
+        "movNm": "오디세이",
+        "siteNm": "CGV 용산아이파크몰",
+        "last_notified": 1790844888
       }
     },
     "30001517|0013": {}
   },
-  "runs": 114,
+  "runs": 115,
   "consecutive_failures": 0,
-  "last_ok": "2026-10-01T17:30:48+09:00"
+  "last_ok": "2026-10-01T17:54:52+09:00"
 }
