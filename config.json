@@ -1,7 +1,32 @@
 {
   "_note": "알림 주소(NTFY_TOPIC)는 여기 두지 않는다. 맥은 launchd plist, GitHub Actions는 Secrets로 주입한다.",
   "ntfy_server": "https://ntfy.sh",
-  "targets": [
+  "targets": [{
+  "label": "오디세이 · 용산 IMAX",
+  "movNo": "30001323",
+  "movNm": "오디세이",
+  "siteNo": "0013",
+  "siteNm": "CGV 용산아이파크몰",
+  "screen_match": "IMAX",
+  "days_ahead": 15,
+  "lookahead_pad": 3,
+  "filter": {
+    "rules": [
+      {
+        "_label": "주말은 아침~밤",
+        "weekdays": ["토", "일"],
+        "time_from": "0800",
+        "time_to": "2359"
+      },
+      {
+        "_label": "평일은 저녁 6시부터",
+        "weekdays": ["월", "화", "수", "목", "금"],
+        "time_from": "1800",
+        "time_to": "2359"
+      }
+    ]
+  }
+},
     {
       "label": "어벤져스 · 용산 IMAX",
       "movNo": "30001517",
