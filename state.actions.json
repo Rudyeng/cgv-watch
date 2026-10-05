@@ -2,7 +2,7 @@
   "targets": {
     "30001323|0013": {
       "20261006_018_1800": {
-        "free": 56,
+        "free": 54,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -12,7 +12,7 @@
         "last_notified": 1790840533
       },
       "20261006_018_2130": {
-        "free": 88,
+        "free": 89,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -192,7 +192,7 @@
         "last_notified": 1790844888
       },
       "20261013_018_2130": {
-        "free": 122,
+        "free": 121,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -204,7 +204,7 @@
     },
     "30001517|0013": {}
   },
-  "runs": 137,
+  "runs": 138,
   "consecutive_failures": 0,
-  "last_ok": "2026-10-05T23:44:02+09:00"
+  "last_ok": "2026-10-06T00:00:24+09:00"
 }
