@@ -2,7 +2,7 @@
   "targets": {
     "30001323|0013": {
       "20261007_018_2130": {
-        "free": 95,
+        "free": 105,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -12,7 +12,7 @@
         "last_notified": 1790842161
       },
       "20261008_018_1800": {
-        "free": 54,
+        "free": 55,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -32,7 +32,7 @@
         "last_notified": 1790842161
       },
       "20261009_018_1800": {
-        "free": 27,
+        "free": 23,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -42,7 +42,7 @@
         "last_notified": 1790842161
       },
       "20261009_018_2130": {
-        "free": 32,
+        "free": 27,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -62,7 +62,7 @@
         "last_notified": 1790843444
       },
       "20261010_018_1430": {
-        "free": 20,
+        "free": 19,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -92,7 +92,7 @@
         "last_notified": 1790843444
       },
       "20261011_018_1100": {
-        "free": 36,
+        "free": 38,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -112,7 +112,7 @@
         "last_notified": 1790843444
       },
       "20261011_018_1800": {
-        "free": 41,
+        "free": 37,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -132,7 +132,7 @@
         "last_notified": 1790843444
       },
       "20261012_018_1800": {
-        "free": 85,
+        "free": 84,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -152,7 +152,7 @@
         "last_notified": 1790843444
       },
       "20261013_018_1800": {
-        "free": 79,
+        "free": 80,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -174,8 +174,7 @@
     },
     "30001517|0013": {}
   },
-  "runs": 141,
-  "consecutive_failures": 4,
-  "last_ok": "2026-10-07T18:29:40+09:00",
-  "last_error": "RuntimeError: Cloudflare 차단 페이지에 걸림"
+  "runs": 142,
+  "consecutive_failures": 0,
+  "last_ok": "2026-10-07T20:07:53+09:00"
 }
