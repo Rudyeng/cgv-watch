@@ -2,7 +2,7 @@
   "targets": {
     "30001323|0013": {
       "20261008_018_1800": {
-        "free": 49,
+        "free": 47,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -12,7 +12,7 @@
         "last_notified": 1790842161
       },
       "20261008_018_2130": {
-        "free": 38,
+        "free": 37,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -22,7 +22,7 @@
         "last_notified": 1790842161
       },
       "20261009_018_1800": {
-        "free": 17,
+        "free": 15,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -42,7 +42,7 @@
         "last_notified": 1790842161
       },
       "20261010_018_1100": {
-        "free": 30,
+        "free": 32,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -52,7 +52,7 @@
         "last_notified": 1790843444
       },
       "20261010_018_1430": {
-        "free": 22,
+        "free": 21,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -72,7 +72,7 @@
         "last_notified": 1790843444
       },
       "20261010_018_2130": {
-        "free": 36,
+        "free": 35,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -82,7 +82,7 @@
         "last_notified": 1790843444
       },
       "20261011_018_1100": {
-        "free": 36,
+        "free": 34,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -92,7 +92,7 @@
         "last_notified": 1790843444
       },
       "20261011_018_1430": {
-        "free": 20,
+        "free": 17,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -102,7 +102,7 @@
         "last_notified": 1790843444
       },
       "20261011_018_1800": {
-        "free": 34,
+        "free": 36,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -122,7 +122,7 @@
         "last_notified": 1790843444
       },
       "20261012_018_1800": {
-        "free": 81,
+        "free": 82,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -152,7 +152,7 @@
         "last_notified": 1790844888
       },
       "20261013_018_2130": {
-        "free": 99,
+        "free": 101,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -164,8 +164,7 @@
     },
     "30001517|0013": {}
   },
-  "runs": 151,
-  "consecutive_failures": 9,
-  "last_ok": "2026-10-08T06:28:47+09:00",
-  "last_error": "RuntimeError: Cloudflare 차단 페이지에 걸림"
+  "runs": 152,
+  "consecutive_failures": 0,
+  "last_ok": "2026-10-08T08:52:36+09:00"
 }
