@@ -1,18 +1,8 @@
 {
   "targets": {
     "30001323|0013": {
-      "20261007_018_2130": {
-        "free": 105,
-        "total": 624,
-        "screen": "IMAX관",
-        "fmt": "IMAX LASER 2D",
-        "start": "2130",
-        "movNm": "오디세이",
-        "siteNm": "CGV 용산아이파크몰",
-        "last_notified": 1790842161
-      },
       "20261008_018_1800": {
-        "free": 55,
+        "free": 49,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -22,7 +12,7 @@
         "last_notified": 1790842161
       },
       "20261008_018_2130": {
-        "free": 39,
+        "free": 38,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -32,7 +22,7 @@
         "last_notified": 1790842161
       },
       "20261009_018_1800": {
-        "free": 23,
+        "free": 19,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -42,7 +32,7 @@
         "last_notified": 1790842161
       },
       "20261009_018_2130": {
-        "free": 27,
+        "free": 26,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -52,7 +42,7 @@
         "last_notified": 1790842161
       },
       "20261010_018_1100": {
-        "free": 30,
+        "free": 32,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -62,17 +52,17 @@
         "last_notified": 1790843444
       },
       "20261010_018_1430": {
-        "free": 19,
+        "free": 21,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
         "start": "1430",
         "movNm": "오디세이",
         "siteNm": "CGV 용산아이파크몰",
-        "last_notified": 1790843444
+        "last_notified": 1791382167
       },
       "20261010_018_1800": {
-        "free": 22,
+        "free": 21,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -82,7 +72,7 @@
         "last_notified": 1790843444
       },
       "20261010_018_2130": {
-        "free": 36,
+        "free": 34,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -112,7 +102,7 @@
         "last_notified": 1790843444
       },
       "20261011_018_1800": {
-        "free": 37,
+        "free": 39,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -132,7 +122,7 @@
         "last_notified": 1790843444
       },
       "20261012_018_1800": {
-        "free": 84,
+        "free": 83,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -162,7 +152,7 @@
         "last_notified": 1790844888
       },
       "20261013_018_2130": {
-        "free": 102,
+        "free": 101,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -174,8 +164,7 @@
     },
     "30001517|0013": {}
   },
-  "runs": 142,
-  "consecutive_failures": 8,
-  "last_ok": "2026-10-07T20:07:53+09:00",
-  "last_error": "RuntimeError: Cloudflare 차단 페이지에 걸림"
+  "runs": 143,
+  "consecutive_failures": 0,
+  "last_ok": "2026-10-07T23:09:31+09:00"
 }
