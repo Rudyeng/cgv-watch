@@ -2,7 +2,7 @@
   "targets": {
     "30001323|0013": {
       "20261008_018_2130": {
-        "free": 39,
+        "free": 43,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -22,7 +22,7 @@
         "last_notified": 1791448254
       },
       "20261009_018_2130": {
-        "free": 25,
+        "free": 23,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -42,14 +42,14 @@
         "last_notified": 1790843444
       },
       "20261010_018_1430": {
-        "free": 17,
+        "free": 19,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
         "start": "1430",
         "movNm": "오디세이",
         "siteNm": "CGV 용산아이파크몰",
-        "last_notified": 1791448254
+        "last_notified": 1791459932
       },
       "20261010_018_1800": {
         "free": 20,
@@ -92,7 +92,7 @@
         "last_notified": 1790843444
       },
       "20261011_018_1800": {
-        "free": 36,
+        "free": 35,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -102,7 +102,7 @@
         "last_notified": 1790843444
       },
       "20261011_018_2130": {
-        "free": 86,
+        "free": 84,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -122,7 +122,7 @@
         "last_notified": 1790843444
       },
       "20261012_018_2130": {
-        "free": 110,
+        "free": 107,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -142,7 +142,7 @@
         "last_notified": 1790844888
       },
       "20261013_018_2130": {
-        "free": 115,
+        "free": 113,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -152,7 +152,7 @@
         "last_notified": 1790844888
       },
       "20261014_018_1800": {
-        "free": 308,
+        "free": 295,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -162,7 +162,7 @@
         "last_notified": 1791448254
       },
       "20261014_018_2130": {
-        "free": 380,
+        "free": 373,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -172,7 +172,7 @@
         "last_notified": 1791448254
       },
       "20261015_018_1800": {
-        "free": 312,
+        "free": 306,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -192,7 +192,7 @@
         "last_notified": 1791448254
       },
       "20261016_018_1800": {
-        "free": 259,
+        "free": 260,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -212,7 +212,7 @@
         "last_notified": 1791448254
       },
       "20261017_018_1430": {
-        "free": 152,
+        "free": 146,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -222,7 +222,7 @@
         "last_notified": 1791449805
       },
       "20261017_018_1800": {
-        "free": 188,
+        "free": 184,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -232,7 +232,7 @@
         "last_notified": 1791449805
       },
       "20261017_018_2130": {
-        "free": 228,
+        "free": 226,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -242,7 +242,7 @@
         "last_notified": 1791449805
       },
       "20261018_018_1030": {
-        "free": 215,
+        "free": 214,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -262,7 +262,7 @@
         "last_notified": 1791449805
       },
       "20261018_018_1730": {
-        "free": 193,
+        "free": 191,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -272,7 +272,7 @@
         "last_notified": 1791449805
       },
       "20261018_018_2100": {
-        "free": 326,
+        "free": 324,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -284,7 +284,7 @@
     },
     "30001517|0013": {}
   },
-  "runs": 157,
+  "runs": 158,
   "consecutive_failures": 0,
-  "last_ok": "2026-10-08T20:28:48+09:00"
+  "last_ok": "2026-10-08T20:45:36+09:00"
 }
