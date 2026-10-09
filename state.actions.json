@@ -275,7 +275,7 @@
     "30001517|0013": {}
   },
   "runs": 162,
-  "consecutive_failures": 30,
+  "consecutive_failures": 31,
   "last_ok": "2026-10-09T06:28:26+09:00",
   "last_error": "RuntimeError: Cloudflare 차단 페이지에 걸림"
 }
