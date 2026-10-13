@@ -2,7 +2,7 @@
   "targets": {
     "30001323|0013": {
       "20261013_018_1800": {
-        "free": 91,
+        "free": 101,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -12,7 +12,7 @@
         "last_notified": 1790844888
       },
       "20261013_018_2130": {
-        "free": 131,
+        "free": 124,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -22,7 +22,7 @@
         "last_notified": 1790844888
       },
       "20261014_018_1800": {
-        "free": 124,
+        "free": 118,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -32,7 +32,7 @@
         "last_notified": 1791448254
       },
       "20261014_018_2130": {
-        "free": 170,
+        "free": 172,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -42,7 +42,7 @@
         "last_notified": 1791448254
       },
       "20261015_018_1800": {
-        "free": 110,
+        "free": 109,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -62,7 +62,7 @@
         "last_notified": 1791448254
       },
       "20261016_018_1800": {
-        "free": 79,
+        "free": 82,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -82,14 +82,14 @@
         "last_notified": 1791448254
       },
       "20261017_018_1430": {
-        "free": 9,
+        "free": 11,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
         "start": "1430",
         "movNm": "오디세이",
         "siteNm": "CGV 용산아이파크몰",
-        "last_notified": 1791736014
+        "last_notified": 1791881216
       },
       "20261017_018_1800": {
         "free": 37,
@@ -142,7 +142,7 @@
         "last_notified": 1791449805
       },
       "20261018_018_2100": {
-        "free": 105,
+        "free": 107,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -152,7 +152,7 @@
         "last_notified": 1791449805
       },
       "20261019_018_1910": {
-        "free": 198,
+        "free": 192,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -194,7 +194,7 @@
     },
     "30001517|0013": {}
   },
-  "runs": 203,
+  "runs": 204,
   "consecutive_failures": 0,
-  "last_ok": "2026-10-13T17:19:57+09:00"
+  "last_ok": "2026-10-13T17:47:00+09:00"
 }
