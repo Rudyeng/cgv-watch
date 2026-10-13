@@ -2,7 +2,7 @@
   "targets": {
     "30001323|0013": {
       "20261013_018_2130": {
-        "free": 128,
+        "free": 124,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -12,7 +12,7 @@
         "last_notified": 1790844888
       },
       "20261014_018_1800": {
-        "free": 121,
+        "free": 112,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -22,7 +22,7 @@
         "last_notified": 1791448254
       },
       "20261014_018_2130": {
-        "free": 175,
+        "free": 177,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -82,7 +82,7 @@
         "last_notified": 1791881216
       },
       "20261017_018_1800": {
-        "free": 37,
+        "free": 39,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -92,7 +92,7 @@
         "last_notified": 1791449805
       },
       "20261017_018_2130": {
-        "free": 60,
+        "free": 62,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -102,7 +102,7 @@
         "last_notified": 1791449805
       },
       "20261018_018_1030": {
-        "free": 45,
+        "free": 46,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -132,7 +132,7 @@
         "last_notified": 1791449805
       },
       "20261018_018_2100": {
-        "free": 107,
+        "free": 105,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -162,7 +162,7 @@
         "last_notified": 1791820269
       },
       "20261020_018_2000": {
-        "free": 198,
+        "free": 196,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -172,7 +172,7 @@
         "last_notified": 1791820269
       },
       "20261020_018_2330": {
-        "free": 398,
+        "free": 396,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -184,7 +184,7 @@
     },
     "30001517|0013": {}
   },
-  "runs": 206,
+  "runs": 207,
   "consecutive_failures": 0,
-  "last_ok": "2026-10-13T18:58:23+09:00"
+  "last_ok": "2026-10-13T19:15:08+09:00"
 }
