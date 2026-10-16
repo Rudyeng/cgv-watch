@@ -1,68 +1,8 @@
 {
   "targets": {
     "30001323|0013": {
-      "20261014_018_1800": {
-        "free": 151,
-        "total": 624,
-        "screen": "IMAX관",
-        "fmt": "IMAX LASER 2D",
-        "start": "1800",
-        "movNm": "오디세이",
-        "siteNm": "CGV 용산아이파크몰",
-        "last_notified": 1791448254
-      },
-      "20261014_018_2130": {
-        "free": 148,
-        "total": 624,
-        "screen": "IMAX관",
-        "fmt": "IMAX LASER 2D",
-        "start": "2130",
-        "movNm": "오디세이",
-        "siteNm": "CGV 용산아이파크몰",
-        "last_notified": 1791448254
-      },
-      "20261015_018_1800": {
-        "free": 98,
-        "total": 624,
-        "screen": "IMAX관",
-        "fmt": "IMAX LASER 2D",
-        "start": "1800",
-        "movNm": "오디세이",
-        "siteNm": "CGV 용산아이파크몰",
-        "last_notified": 1791448254
-      },
-      "20261015_018_2130": {
-        "free": 136,
-        "total": 624,
-        "screen": "IMAX관",
-        "fmt": "IMAX LASER 2D",
-        "start": "2130",
-        "movNm": "오디세이",
-        "siteNm": "CGV 용산아이파크몰",
-        "last_notified": 1791448254
-      },
-      "20261016_018_1800": {
-        "free": 77,
-        "total": 624,
-        "screen": "IMAX관",
-        "fmt": "IMAX LASER 2D",
-        "start": "1800",
-        "movNm": "오디세이",
-        "siteNm": "CGV 용산아이파크몰",
-        "last_notified": 1791448254
-      },
-      "20261016_018_2130": {
-        "free": 68,
-        "total": 624,
-        "screen": "IMAX관",
-        "fmt": "IMAX LASER 2D",
-        "start": "2130",
-        "movNm": "오디세이",
-        "siteNm": "CGV 용산아이파크몰",
-        "last_notified": 1791448254
-      },
       "20261017_018_1430": {
-        "free": 8,
+        "free": 7,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -72,7 +12,7 @@
         "last_notified": 1791902000
       },
       "20261017_018_1800": {
-        "free": 33,
+        "free": 18,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -82,7 +22,7 @@
         "last_notified": 1791449805
       },
       "20261017_018_2130": {
-        "free": 58,
+        "free": 41,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -92,7 +32,7 @@
         "last_notified": 1791449805
       },
       "20261018_018_1030": {
-        "free": 40,
+        "free": 29,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -102,7 +42,7 @@
         "last_notified": 1791449805
       },
       "20261018_018_1400": {
-        "free": 26,
+        "free": 21,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -112,7 +52,7 @@
         "last_notified": 1791449805
       },
       "20261018_018_1730": {
-        "free": 54,
+        "free": 33,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -122,7 +62,7 @@
         "last_notified": 1791449805
       },
       "20261018_018_2100": {
-        "free": 98,
+        "free": 76,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -132,7 +72,7 @@
         "last_notified": 1791449805
       },
       "20261019_018_1910": {
-        "free": 147,
+        "free": 103,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -142,7 +82,7 @@
         "last_notified": 1791820269
       },
       "20261019_018_2240": {
-        "free": 354,
+        "free": 256,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -152,7 +92,7 @@
         "last_notified": 1791820269
       },
       "20261020_018_2000": {
-        "free": 162,
+        "free": 105,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -162,7 +102,7 @@
         "last_notified": 1791820269
       },
       "20261020_018_2330": {
-        "free": 367,
+        "free": 291,
         "total": 624,
         "screen": "IMAX관",
         "fmt": "IMAX LASER 2D",
@@ -174,8 +114,7 @@
     },
     "30001517|0013": {}
   },
-  "runs": 218,
-  "consecutive_failures": 13,
-  "last_ok": "2026-10-14T18:00:28+09:00",
-  "last_error": "RuntimeError: Cloudflare 차단 페이지에 걸림"
+  "runs": 219,
+  "consecutive_failures": 0,
+  "last_ok": "2026-10-17T01:59:13+09:00"
 }
