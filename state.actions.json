@@ -1,31 +1,9 @@
 {
   "targets": {
-    "30001323|0013": {
-      "20261114_018_1045": {
-        "free": 57,
-        "total": 624,
-        "screen": "IMAX관",
-        "fmt": "IMAX LASER 2D",
-        "start": "1045",
-        "movNm": "오디세이",
-        "siteNm": "CGV 용산아이파크몰",
-        "last_notified": 1794341301
-      },
-      "20261115_018_1045": {
-        "free": 57,
-        "total": 624,
-        "screen": "IMAX관",
-        "fmt": "IMAX LASER 2D",
-        "start": "1045",
-        "movNm": "오디세이",
-        "siteNm": "CGV 용산아이파크몰",
-        "last_notified": 1794341301
-      }
-    },
+    "30001323|0013": {},
     "30001517|0013": {}
   },
-  "runs": 230,
-  "consecutive_failures": 8,
-  "last_ok": "2026-11-13T21:29:38+09:00",
-  "last_error": "RuntimeError: Cloudflare 차단 페이지에 걸림"
+  "runs": 231,
+  "consecutive_failures": 0,
+  "last_ok": "2026-11-16T01:36:41+09:00"
 }
